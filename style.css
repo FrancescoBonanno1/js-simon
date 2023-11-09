@@ -1,0 +1,11 @@
+#numeri{
+    font-family: sans-serif;
+    color: brown;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.displaynone{
+    display: none;
+}
